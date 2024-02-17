@@ -1,3 +1,3 @@
 Hello Git and GitHub
 
-This is a copy of README.txt
+Im Hadif and I'm gonna be awesome!
